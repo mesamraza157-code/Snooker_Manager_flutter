@@ -61,7 +61,3 @@ snooker_manager/
 ## 🤝 Contributing
 
 Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-Add your preferred license here (for example, MIT).
